@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+
+    <channel>
+        <title>Canal de noticias de Raúl Calleja</title>
+        <link>https://raulcalleja.github.io/canalrss.github.io/Canal_RCP.rss</link>
+        <description>Noticas relacionadas sobre deportes de motor.</description>
+        <language>es-ES</language>
+        
+        <item>
+            <title>Mercedes F1 presenta su nuevo coche para 2024</title>
+            <image>
+                <url>https://estaticos-cdn.prensaiberica.es/clip/c8ec693c-7fe8-4e1c-b2f2-a28c4db24555_alta-libre-aspect-ratio_default_0.jpg</url>
+                <link>https://es.motorsport.com/f1/news/mercedes-presentacion-coche-2025-W15/10575648/</link>
+                <title>Mercedes</title>
+            </image>
+            <description>El equipo Mercedes de Fórmula 1 ha presentado en Silverstone su nuevo W15 para 2024</description>
+            <link>https://es.motorsport.com/f1/news/mercedes-presentacion-coche-2025-W15/10575648/</link>
+            <pubDate>14 FEB 2024</pubDate>
+        </item>
+
+        <item>
+            <title>Presentación del AMR24 de Aston Martin F1</title>
+            <image>
+                <url>https://www.lavozdegalicia.es/default/2024/02/12/00121707725239009913845/Foto/Amr24-Aston-MArtin.jpg</url>
+                <link>https://es.motorsport.com/f1/news/aston-martin-presentacion-amr24-coche-alonso/10574782/</link>
+                <title>AMR24</title>
+            </image>
+            <description>Presentación de los nuevos cambios de la escuderia para la temporada 24/25.</description>
+            <link>https://es.motorsport.com/f1/news/aston-martin-presentacion-amr24-coche-alonso/10574782/</link>
+            <pubDate>12 FEB 2024</pubDate>
+        </item>
+
+        <item>
+            <title>Carlos Sainz conquista su cuarto Dakar</title>
+            <image>
+                <url>https://images.ecestaticos.com/-_a8VqW4FnLNxPmWA9etZj44DLs=/0x0:2272x1647/1338x752/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F57b%2Ff50%2Ff08%2F57bf50f08810e1413b6835f2fbd2c333.jpg</url>
+                <link>https://www.sport.es/es/noticias/motor/dakar/sainz-conquista-cuarto-dakar-97092098</link>
+                <title>Audi E-tron Dakar</title>
+            </image>
+            <description>El madrileño hace historia a sus 61 años: gana su cuarto Dakar.</description>
+            <link>https://www.sport.es/es/noticias/motor/dakar/sainz-conquista-cuarto-dakar-97092098</link>
+            <pubDate>19 ENE 2024</pubDate>
+        </item>
+    </channel>
+</rss>
